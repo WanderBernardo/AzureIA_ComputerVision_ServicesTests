@@ -1,11 +1,14 @@
 # Azure Inteligência Artificial(IA) - Visão Computacional: Testes de recursos/serviçoes
 Objetivo é apresentar recursos/serviço de Inteligência Artificial utilizando Foto, Foto com Texto, Descrevendo o que tem na foto etc.
 
+### Antes de tudo deve realizar a Primeira parte:
+ - https://github.com/WanderBernardo/AzureIA_ComputerVision_ConfigResource/tree/main
+
+
 ### Ferramentas utilizadas:
 - Portal Studio Vision : https://portal.vision.cognitive.azure.com/
 
 ### Pontos Importantes:
-- Realizar primeiro a configuração do ambiente para conseguir fazer os testes: https://github.com/WanderBernardo/AzureIA_ComputerVision_ConfigResource/tree/main
 - Caso esteja realizando apenas um prática de estudo, no final excluir tudo que foi construído nesse laboratório. Desta forma, minimiza o risco de ser cobrado algum valor. Lembre-se você está em um ambiente real de produção.
 - Documentação:
     + https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html
