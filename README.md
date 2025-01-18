@@ -19,7 +19,8 @@ Objetivo é apresentar recursos/serviço de Inteligência Artificial utilizando 
 ![image](https://github.com/user-attachments/assets/101fb7ce-7f99-463b-954c-79c4f897dd09)
 
 - Os testes realizados neste material foram com imagem proprias. Não utilizei os exemplos da ferramenta.
-
+- Para voltar a tela com o menu dos serviçoes disponibilizado tem um botão ``` X  ```, na parte superior da tela.
+  
 ### Teste 01 - Identificar pessoas na foto:
 1 - Selecionar ``` Face  ```, depois ``` Detect faces in an image  ```
 ![image](https://github.com/user-attachments/assets/96ca218a-65af-4c9d-8b3d-6b3ee62b534e)
